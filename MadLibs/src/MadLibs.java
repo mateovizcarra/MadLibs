@@ -1,5 +1,5 @@
-// by Mateo Vizcarra
-// 2/10/24
+// by Mateo Vizcarra and Lance Dee-Hoskins
+// 2/13/24
 import java.util.Scanner; //you have to import the scanner to be able to use it
 
 public class MadLibs {
@@ -29,8 +29,8 @@ public class MadLibs {
     	Fraction = in.nextDouble(); // User selected decimal = "Fraction"
     	
     	in.nextLine(); //same logic as before, double/integer will negate the following string.
-    	
-    	
+
+        
     	System.out.print("Here's a story based on the answers given\n");
     	
     	System.out.printf("\n%s walked home from the grocery store.\nThey tripped on a banana peel on the way and fell face first on the ground."
