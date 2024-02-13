@@ -39,7 +39,7 @@ public class MadLibs {
     	//The line above can be one singular line but it got too annoying to scroll through so I separated it into multiple lines.
     	in.close();
     	
-    	
+    	//end of project
     	
     }
     
